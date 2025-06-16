@@ -1,4 +1,4 @@
-# 📝 Laravel Login & Notes CRUD App
+# 📝MyNotes - Laravel Login & Notes CRUD App
 
 A modern, responsive Laravel-based web application that includes:
 
@@ -25,19 +25,14 @@ A modern, responsive Laravel-based web application that includes:
 
 > Replace these paths with actual screenshot links or local file paths.
 
-### 🔐 Login Page
+### 🔐 Register & Login Page
 
-![Login Screenshot](public/screenshots/login.png)
+![Screenshot 2025-06-16 233039](https://github.com/user-attachments/assets/e930a3e3-8320-4b28-8080-c0015847f7f6)
+![Screenshot 2025-06-16 233050](https://github.com/user-attachments/assets/29c55446-7e22-4fa4-8743-047d0cee4547)
 
 ### 📝 Dashboard
 
-![Dashboard Screenshot](public/screenshots/dashboard.png)
-
-### ➕ Create Note
-
-![Create Screenshot](public/screenshots/create.png)
-
----
+![Screenshot 2025-06-16 233213](https://github.com/user-attachments/assets/27a89aaf-d9d4-494c-ae0c-e1b03a73fa54)
 
 ## 🛠️ Tech Stack
 
@@ -147,7 +142,5 @@ This project is licensed under the MIT License.
 ## 🙋 Author
 
 **Pramuditha Kavinda Bandara**  
-BSc (Hons) Software Engineering Student  
-[GitHub](https://github.com/KMPKBandara) | [LinkedIn](https://www.linkedin.com)
 
 ---
