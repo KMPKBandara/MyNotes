@@ -3,10 +3,12 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between h-16">
             <div class="flex">
-                <!-- Logo -->
+                <!-- Logo/Brand Text -->
                 <div class="shrink-0 flex items-center">
-                    <a href="{{ route('dashboard') }}">
-                        <x-application-logo class="block h-9 w-auto fill-current text-gray-800 dark:text-gray-200" />
+                    <a href="{{ route('dashboard') }}" class="flex items-center group">
+                        <span class="text-3xl lg:text-4xl font-bold text-white dark:text-white hover:text-gray-200 dark:hover:text-gray-200 transition-all duration-200 ease-in-out transform group-hover:scale-105 tracking-wide">
+                            MyNotes
+                        </span>
                     </a>
                 </div>
 
