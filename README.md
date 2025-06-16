@@ -23,8 +23,6 @@ A modern, responsive Laravel-based web application that includes:
 
 ## 📸 Screenshots
 
-> Replace these paths with actual screenshot links or local file paths.
-
 ### 🔐 Register & Login Page
 
 ![Screenshot 2025-06-16 233039](https://github.com/user-attachments/assets/e930a3e3-8320-4b28-8080-c0015847f7f6)
